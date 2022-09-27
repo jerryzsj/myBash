@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 git commit -am 'v20220920'
 
